@@ -11,5 +11,6 @@ of which you find yourself.
 
 # Have Fun!
 Play and see what ending you get!
+https://seankudrna.github.io/Alive-Text-Based-Game/
 
 
