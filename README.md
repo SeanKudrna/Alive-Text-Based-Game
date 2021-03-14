@@ -14,4 +14,7 @@ Play and see what ending you get!
 
 Play: https://seankudrna.github.io/Alive-Text-Based-Game/
 
+# Easter Egg
+The correct password for the computer is hexidecimal. It translates to the game name: 'alive'.
+
 
